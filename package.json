@@ -1,0 +1,26 @@
+{
+  "name": "gddocs",
+  "version": "0.0.1",
+  "description": "Boomlings Documentation",
+  "main": "generator.js",
+  "scripts": {
+    "run": "node generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "gd"
+  ],
+  "author": "Wylie",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://#"
+  },
+  "homepage": "#",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "docsify-cli": "^4.4.0"
+  }
+}
