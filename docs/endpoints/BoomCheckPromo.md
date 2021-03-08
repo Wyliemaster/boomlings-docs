@@ -40,4 +40,4 @@ kP:1:kM:0:kG:1
 
 <!-- tabs:end -->
 
-To learn the structure, please refer to [this](/resources/server/promo.md)
+There is no available information regarding the key Structure due to the endpoints not existing. Attempting to use a private server to find the use causes the game to crash
