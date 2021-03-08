@@ -1,0 +1,45 @@
+# get_relative
+
+get_relative is one of the leaderboard endpoints that is used in Boomlings, it returns 20 players on the leaderboard which are relative to your own leaderboard posisiton
+
+## Parameters
+
+udid - the player's [Unique Device Identifier](https://en.wikipedia.org/wiki/UDID)
+
+name - the player's in-game name
+
+score - the highest score the player has gotten
+
+context - [context](/topics/context)
+
+secret - Wmfd2893gb7
+
+## Request Example
+
+```py
+import aiohttp
+import asyncio
+
+async def main():
+    url="http://www.robtopgames.com/Boomlings/get_relative.php"
+
+    async with aiohttp.ClientSession() as session:
+        async with session.post(url, data={
+            "udid": "your udid", 
+            "name": "player",
+            "score": "2147483647",
+            "context": "1020063030704",
+            "secret": "Wmfd2893gb7"
+            }) as resp:
+            print(resp.status)
+            print(await resp.text())
+
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(main())
+```
+
+**Response**
+```py
+Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 Player;00000000-2392-9881-23fe-058400000000;2147483647;1001001000000 
+```

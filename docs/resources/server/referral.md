@@ -43,3 +43,7 @@ registerReferral is the most complex out of all the referral endpoints as it has
 | `kE01`     | This device has already been registered! | if the player has already registered |
 | `kE02`     | The entered ID is invalid. Please try again. | if the ID is invalid |
 | `kE03`     | You cannot use your own referral ID. Please try again. | if you try to claim your own referral code |
+
+### Trivia
+
+- The ReferralID sent back from `getRefID` can easily be predicted as the ID increments by 1 in hex for each account registered

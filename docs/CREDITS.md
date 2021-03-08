@@ -1,5 +1,9 @@
 # Credits
 
-The Boomlings Docs is based on the GD Docs project. The foundation of this site was created by the GD Programming team so credits to them
+The Boomlings Docs formatting and structure was directly taken from the GD Docs project so credits to them
 
-- [GD Programming](http://docs.gdprogra.me/)
+[GD Programming](http://docs.gdprogra.me/)
+
+__Also a special Thanks to:__
+- [GDColon](https://github.com/GDColon)
+- [Cvolton](https://github.com/Cvolton)

@@ -1,6 +1,6 @@
 # Promo Codes
 
-when boomlings was still in the app store and play store, players could redeem promo codes for certain rewards. using these promo codes present day do not work and forcing the server to give a successful response causes a crash. nonetheless below are all the promocodes that RobTop has shared in places such as Touch Arcade.
+When Boomlings was still in the App Store and Play Store, players could redeem promo codes for certain rewards. using these promo codes present day do not work and forcing the server to give a successful response causes a crash so there isn't any information regarding the rewards. nonetheless below are all the promocodes that RobTop has shared in places such as Touch Arcade.
 
 | Promo Code |
 |:-----------|
