@@ -7,6 +7,9 @@
 
 **Client**
 
+  - [GameSave](resources/client/gamesave)
+    - [CCGameManager](resources/client/saves/CCGameManager)
+
 **Server**
 
   - [Referrals](/resources/server/referral.md)
