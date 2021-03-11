@@ -10,6 +10,7 @@
 **Server**
 
   - [Referrals](/resources/server/referral.md)
+  - [Scores](resources/server/scores)
 
 **Endpoints**
   - [BoomCheckClaim](/endpoints/boomCheckClaim.md)
@@ -19,8 +20,11 @@
   - [checkMoreGames](/endpoints/checkMoreGames.md)
   - [checkMoreGamesAndroid](/endpoints/checkMoreGamesAndroid.md)
   - [checkRefCredit](/endpoints/checkRefCredit.md)
+  - [get_scores](/endpoints/get_Scores.md)
+  - [get_scoresfb](/endpoints/get_Scoresfb.md)
   - [get_relative](/endpoints/get_relative)
   - [getRefID](/endpoints/getRefID.md)
+  - [put_score](/endpoints/put_score)
   - [registerReferral](/endpoints/registerReferral.md)
 
 **Topics**
