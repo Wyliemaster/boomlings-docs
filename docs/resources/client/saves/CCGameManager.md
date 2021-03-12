@@ -1,6 +1,6 @@
 # CCGameManager
 
-GameManager contains a lot of important information for your save file
+GameManager contains a lot of important information for your save file. All the data in `CCGameManager` are in XML with a `<k>key</k><i>value</i>` format
 
 | Key | Type | Value |
 |:----|:-----|:------|
