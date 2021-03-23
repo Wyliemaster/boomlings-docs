@@ -10,7 +10,7 @@
   - [GameSave](resources/client/gamesave)
     - [CCGameManager](resources/client/saves/CCGameManager)
       - [Achievements](#)
-    - [CCGameSave](#)
+    - [CCGameSave](/resources/client/saves/CCGameSave.md)
     - [CCGameStatistics](#)
     - [CCGameStore](#)
 
