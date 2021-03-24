@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Wyliemaster/boomlings-docs/main/assets/icon.png?token=APAH4RON7PDFQKBHVMWPCUDAKTPVI" height="128" width="128" alt="book">
+    <img src="https://raw.githubusercontent.com/Wyliemaster/boomlings-docs/main/assets/icon.png" height="128" width="128" alt="book">
 </div>
 
 # Boomlings
