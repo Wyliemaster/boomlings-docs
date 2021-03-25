@@ -12,5 +12,6 @@ Although Boomlings is a universally loved game, there aren't many projects creat
 
 #### JS
 
+ - [Boomlings API Bot](https://github.com/Wyliemaster/boomlings.js) by [Wylie](https://github.com/Wyliemaster)
  - [Boomlings Leaderboard viewer](https://gdbrowser.com/boomlings) by [GDColon](https://github.com/GDColon)
 
