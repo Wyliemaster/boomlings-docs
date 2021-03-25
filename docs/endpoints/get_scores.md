@@ -4,7 +4,7 @@ get_scores is one of the leaderboard endpoints that is used in Boomlings, it ret
 
 ## Parameters
 
-udid - the player's [Unique Device Identifier](https://en.wikipedia.org/wiki/UDID)
+name - the player's name
 
 secret - Wmfd2893gb7
 
