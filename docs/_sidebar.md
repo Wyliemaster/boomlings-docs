@@ -35,6 +35,7 @@
   - [registerReferral](/endpoints/registerReferral.md)
 
 **Topics**
+  - [Tags](/topics/tags.md)
   - [Context](/topics/context.md)
-  - [promo](/topics/promo_codes.md)
+  - [Promo](/topics/promo_codes.md)
   - [UDID](/topics/udid)
