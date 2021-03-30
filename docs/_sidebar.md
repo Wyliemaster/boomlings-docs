@@ -9,8 +9,9 @@
 
   - [GameSave](resources/client/gamesave)
     - [CCGameManager](resources/client/saves/CCGameManager)
+      - [Achievements](resources/client/saves/GameManager/achievements.md)
     - [CCGameSave](/resources/client/saves/CCGameSave.md)
-      - [Game State](/topics/gameState)
+      - [Game State](/resources/client/saves/GameSave/gameState)
     - [CCGameStatistics](/resources/client/saves/CCGameStatistics.md)
     - [CCGameStore](/resources/client/saves/CCGameStore.md)
 
