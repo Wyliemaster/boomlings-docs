@@ -6,7 +6,8 @@
 ## **Resources**
 
 **Client**
-
+  - [Shop](resources/client/shop.md)
+    - [Icons](resources/client/shop/icons.md)
   - [GameSave](resources/client/gamesave)
     - [CCGameManager](resources/client/saves/CCGameManager)
       - [Achievements](resources/client/saves/GameManager/achievements.md)
