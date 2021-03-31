@@ -2,7 +2,7 @@
 
 RegisterReferral was a way RobTop tried to get new players in boomlings. By inviting your friends and using a referralID, players are rewarded with `500` coins
 
-## parameters
+## Parameters
 
 udid - the player's [Unique Device Identifier](https://en.wikipedia.org/wiki/UDID)
 

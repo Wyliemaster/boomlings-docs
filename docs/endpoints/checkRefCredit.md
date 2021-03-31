@@ -2,7 +2,7 @@
 
 checkRefCredit is used to check how many people you have 'recruited' using your referralID, for each new recruit you find, you get 500 coins
 
-## parameters
+## Parameters
 
 udid - the player's [Unique Device Identifier](https://en.wikipedia.org/wiki/UDID)
 
