@@ -1,0 +1,11 @@
+{
+    "category": "consumable",
+    "count": "5",
+    "description": "Package containing <cg>5</c> Secret Tunnels.",
+    "featureID": "kItemSkipB",
+    "groupID": "kSkip",
+    "iconName": "itemSkipB_001.png",
+    "price": "600",
+    "title": "Secret Tunnel x5",
+    "type": "consumable"
+}

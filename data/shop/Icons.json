@@ -1,0 +1,505 @@
+{
+    "category": "group",
+    "kIcon_001": {
+        "category": "icons",
+        "description": "So <cl>much</c> to do, so little time!",
+        "featureID": "kIcon_001",
+        "isFree": "YES",
+        "title": "Slash"
+    },
+    "kIcon_002": {
+        "category": "icons",
+        "description": "There are three things Grumpy does not like. <cg>Everything</c>, <cy>everyone</c> and <cl>You</c>!",
+        "featureID": "kIcon_002",
+        "isFree": "YES",
+        "title": "Grumpy"
+    },
+    "kIcon_003": {
+        "category": "icons",
+        "description": "Looks <cl>Tiny</c> and <cy>peaceful</c>... but can you be sure?",
+        "featureID": "kIcon_003",
+        "isFree": "YES",
+        "title": "Pinkie"
+    },
+    "kIcon_004": {
+        "category": "icons",
+        "description": "You have <cy>cookies</c> for Flubbo?",
+        "featureID": "kIcon_004",
+        "isFree": "YES",
+        "title": "Flubbo"
+    },
+    "kIcon_005": {
+        "category": "icons",
+        "description": "<cl>Sleepy</c> and <cy>sceptical</c>, seems to be a good description.",
+        "featureID": "kIcon_005",
+        "isFree": "YES",
+        "title": "Luigi"
+    },
+    "kIcon_006": {
+        "category": "icons",
+        "description": "So <cl>much</c> to do, so little <cy>time</c>!",
+        "featureID": "kIcon_006",
+        "isFree": "YES",
+        "title": "BamBam"
+    },
+    "kIcon_007": {
+        "category": "icons",
+        "description": "I AM the <cl>Blue</c> Slash!",
+        "featureID": "kIcon_007",
+        "price": "250",
+        "title": "Slash 2"
+    },
+    "kIcon_008": {
+        "category": "icons",
+        "description": "Angry, very <cr>angry</c>...",
+        "featureID": "kIcon_008",
+        "price": "250",
+        "title": "Gumpy 2"
+    },
+    "kIcon_009": {
+        "category": "icons",
+        "description": "You buy <cl>Pinkie</c>?",
+        "featureID": "kIcon_009",
+        "price": "250",
+        "title": "Pinkie 2"
+    },
+    "kIcon_010": {
+        "category": "icons",
+        "description": "You got <cy>candy</c> for Flubbo?",
+        "featureID": "kIcon_010",
+        "price": "250",
+        "title": "Flubbo 2"
+    },
+    "kIcon_011": {
+        "category": "icons",
+        "description": "<cy>zzzzZZZZZ</c>...",
+        "featureID": "kIcon_011",
+        "price": "250",
+        "title": "Luigi 2",
+        "unlockedBy": "0"
+    },
+    "kIcon_012": {
+        "category": "icons",
+        "description": "Ever since that <cy>Energy Drink</c>, <cl>BamBam</c> has never been the same...",
+        "featureID": "kIcon_012",
+        "price": "250",
+        "title": "BamBam 2",
+        "unlockedBy": "0"
+    },
+    "kIcon_013": {
+        "category": "icons",
+        "description": "Currently testing the new <cl>Never Melt</c> Ice <cy>X3000</c>.",
+        "featureID": "kIcon_013",
+        "price": "400",
+        "title": "Mr. Frost",
+        "unlockedBy": "0"
+    },
+    "kIcon_014": {
+        "category": "icons",
+        "description": "The <cl>saddest</c> Boom in Boomlia. Ever since the shop ran out of <cg>cookies</c>. ",
+        "featureID": "kIcon_014",
+        "price": "400",
+        "title": "Ome"
+    },
+    "kIcon_015": {
+        "category": "icons",
+        "description": "Always up to <cy>no good</c>. Keep an eye open when <cr>The Imp</c> is near...",
+        "featureID": "kIcon_015",
+        "price": "0",
+        "title": "The Imp",
+        "unlockedBy": "boomlings.ach.level.10"
+    },
+    "kIcon_016": {
+        "category": "icons",
+        "description": "A master of <cg>Swordsmanship</c>, <cl>bombs</c>, and <cy>boomerangs</c>...",
+        "featureID": "kIcon_016",
+        "price": "0",
+        "title": "The Hero",
+        "unlockedBy": "boomlings.ach.level.15"
+    },
+    "kIcon_017": {
+        "category": "icons",
+        "description": "There are times when <cy>exploding</c> is not the right thing to do...",
+        "featureID": "kIcon_017",
+        "price": "0",
+        "title": "PeaceBoom",
+        "unlockedBy": "boomlings.ach.pacifist"
+    },
+    "kIcon_018": {
+        "category": "icons",
+        "description": "Some say that <cl>these</c> are the remains of the <cg>first</c> Boomling. It could also be a <cy>strange</c> rock...",
+        "featureID": "kIcon_018",
+        "price": "0",
+        "title": "StoneBoom",
+        "unlockedBy": "boomlings.ach.stone.C"
+    },
+    "kIcon_019": {
+        "category": "icons",
+        "description": "So <cl>cool</c>, it does not need a description.",
+        "featureID": "kIcon_019",
+        "price": "500",
+        "title": "Cyboom X1"
+    },
+    "kIcon_020": {
+        "category": "icons",
+        "description": "More <cg>powerful</c> than any other Z-model. Batteries not included.",
+        "featureID": "kIcon_020",
+        "price": "500",
+        "title": "Cyboom Z5"
+    },
+    "kIcon_021": {
+        "category": "icons",
+        "description": "New and <cg>improved</c> model. Slightly <cr>flammable</c>.",
+        "featureID": "kIcon_021",
+        "price": "500",
+        "title": "Cyboom R2"
+    },
+    "kIcon_022": {
+        "category": "icons",
+        "description": "It's <cg>green</c>... I mean, what more could you possibly want?",
+        "featureID": "kIcon_022",
+        "price": "500",
+        "title": "Cyboom Y7"
+    },
+    "kIcon_023": {
+        "category": "icons",
+        "description": "Not the <cy>smartest</c> of the <cg>Borcs</c>, not even close...",
+        "featureID": "kIcon_023",
+        "price": "500",
+        "title": "JubJub"
+    },
+    "kIcon_024": {
+        "category": "icons",
+        "description": "Determined to start the first <cy>Boomling</c> <cg>Jungle Tribe</c>. It's not going very well.",
+        "featureID": "kIcon_024",
+        "price": "500",
+        "title": "JibJib"
+    },
+    "kIcon_025": {
+        "category": "icons",
+        "description": "You cannot hide from the <cr>Boom Hunter</c>... Seriously, <cy>stop</c> hiding.",
+        "featureID": "kIcon_025",
+        "price": "0",
+        "title": "Boom Hunter",
+        "unlockedBy": "boomlings.ach.4bandits"
+    },
+    "kIcon_026": {
+        "category": "icons",
+        "description": "A fierce <cl>rebel</c> with a craving for <cy>Street Fights</c>.",
+        "featureID": "kIcon_026",
+        "price": "500",
+        "title": "Boom Kid"
+    },
+    "kIcon_027": {
+        "category": "icons",
+        "description": "<cg>Protector</c> of the innocent and <cr>scourge</c> of the wicked! And what a <cl>Mustache</c>!",
+        "featureID": "kIcon_027",
+        "price": "0",
+        "title": "Borro",
+        "unlockedBy": "boomlings.ach.changer.C"
+    },
+    "kIcon_028": {
+        "category": "icons",
+        "description": "When the going gets <cg>though</c>. He <cr>quits</c>.",
+        "featureID": "kIcon_028",
+        "price": "500",
+        "title": "RageQuit"
+    },
+    "kIcon_029": {
+        "category": "icons",
+        "description": "The <cy>richest</c> of all the Boomlings. Which he reminds everyone <cg>every</c> 5 minutes.",
+        "featureID": "kIcon_029",
+        "price": "0",
+        "title": "The Baron",
+        "unlockedBy": "boomlings.ach.gold.3"
+    },
+    "kIcon_030": {
+        "category": "icons",
+        "description": "There are no seas in <cl>Boomlia</c>. Maybe that's why he's so <cr>angry</c>?",
+        "featureID": "kIcon_030",
+        "price": "500",
+        "title": "Pirate Boom"
+    },
+    "kIcon_031": {
+        "category": "icons",
+        "description": "<cy>Wuh!</c> <cg>Who!?</c>... ,Ah, it's just <cl>you</c>.",
+        "featureID": "kIcon_031",
+        "price": "0",
+        "title": "Ye Olde Sage",
+        "unlockedBy": "boomlings.ach.rank.1"
+    },
+    "kIcon_032": {
+        "category": "icons",
+        "description": "There is no <cy>challenge</c> to great for <cl>Captain Flash</c>! ",
+        "featureID": "kIcon_032",
+        "price": "0",
+        "title": "Captain Flash",
+        "unlockedBy": "boomlings.ach.turtle.3"
+    },
+    "kIcon_033": {
+        "category": "icons",
+        "description": "The <cr>Ghost</c> of Boomlia. <cg>Master</c> of his own fate, and <cy>champion</c> of the Gods. ",
+        "featureID": "kIcon_033",
+        "price": "0",
+        "title": "Boomos",
+        "unlockedBy": "boomlings.ach.rank.3"
+    },
+    "kIcon_034": {
+        "category": "icons",
+        "description": "If he goes anywhere, don't worry. <cg>He will be back</c>.",
+        "featureID": "kIcon_034",
+        "price": "0",
+        "title": "Boominator",
+        "unlockedBy": "boomlings.ach.rank.2"
+    },
+    "kIcon_035": {
+        "category": "icons",
+        "description": "<cr>Jetpacks</c> and <cg>Boomlings</c> are a combination few have tried... And <cy>none</c> have mastered.",
+        "featureID": "kIcon_035",
+        "price": "0",
+        "title": "JetBoom",
+        "unlockedBy": "boomlings.ach.turtle.4"
+    },
+    "kIcon_036": {
+        "category": "icons",
+        "description": "Infused with a <cg>mystic power</c>. The <cy>Blobbos</c> are the source of all color in <cl>Boomlia</c>.",
+        "featureID": "kIcon_036",
+        "price": "0",
+        "title": "Blobbo",
+        "unlockedBy": "boomlings.ach.colors.2"
+    },
+    "kIcon_037": {
+        "category": "icons",
+        "description": "An <cy>anchient warrior</c> blessed with the <cg>power</c> of the <cl>MegaBlobbos</c>!",
+        "featureID": "kIcon_037",
+        "price": "0",
+        "title": "DragonBoom",
+        "unlockedBy": "boomlings.ach.firstMegaBlob"
+    },
+    "kIcon_038": {
+        "category": "icons",
+        "description": "A true force of <cr>Evil</c>. Beware of<cy>Skulletor</c>...",
+        "featureID": "kIcon_038",
+        "price": "0",
+        "title": "Skulletor",
+        "unlockedBy": "boomlings.ach.skull.C"
+    },
+    "kIcon_039": {
+        "category": "icons",
+        "description": "No one knows what they have <cg>eaten</c>... But it could <cr>not</c> have been <cl>tasty</c>!",
+        "featureID": "kIcon_039",
+        "price": "0",
+        "title": "Mega Blobbo",
+        "unlockedBy": "boomlings.ach.megablob.C"
+    },
+    "kIcon_040": {
+        "category": "icons",
+        "description": "Some Boomlings are just happy. Period.",
+        "featureID": "kIcon_040",
+        "price": "0",
+        "title": "Clueless",
+        "unlockedBy": "boomlings.ach.icon.1"
+    },
+    "kIcon_041": {
+        "category": "icons",
+        "description": "<cg>The Colorless</c> were banished from <cl>Boomlia</c> thousands of years ago. They long for <cr>revenge</c>! ",
+        "featureID": "kIcon_041",
+        "price": "0",
+        "title": "Enraged Boom",
+        "unlockedBy": "boomlings.ach.icon.2"
+    },
+    "kIcon_042": {
+        "category": "icons",
+        "description": "The leader of the <cg>Colorless Tribe</c>... This is one seriously <cr>angry</c> Boom.",
+        "featureID": "kIcon_042",
+        "price": "0",
+        "title": "BOOOOM UUUUUU",
+        "unlockedBy": "boomlings.ach.icon.3"
+    },
+    "kIcon_043": {
+        "category": "icons",
+        "description": "<cy>Years</c> have passed since the <cl>masked</c> Boom was last seen. Where did he go?",
+        "featureID": "kIcon_043",
+        "price": "0",
+        "title": "Master of Disguise",
+        "unlockedBy": "boomlings.ach.icon"
+    },
+    "kIcon_044": {
+        "category": "icons",
+        "description": "No one knows where the large group of <cy>BoomChu's</c> came from. But it has been hard trying to <cg>catch</c> them all.",
+        "featureID": "kIcon_044",
+        "price": "0",
+        "title": "BoomChu",
+        "unlockedBy": "boomlings.ach.level.5"
+    },
+    "kIcon_045": {
+        "category": "icons",
+        "description": "All bow down to <cy>SkeleBoom</c>! Basically he is <cr>evil</c>. Yea...",
+        "featureID": "kIcon_045",
+        "price": "0",
+        "title": "SkeleBoom",
+        "unlockedBy": "boomlings.ach.cheatDeath"
+    },
+    "kIcon_046": {
+        "category": "icons",
+        "description": "Search the <cg>Deepest Swamp</c> in <cl>Boomlia</c> to find the Swamp Boom... and maybe his <cy>Donkey</c>.",
+        "featureID": "kIcon_046",
+        "price": "0",
+        "title": "Swamp Boom",
+        "unlockedBy": "boomlings.ach.chain.5"
+    },
+    "kIcon_047": {
+        "category": "icons",
+        "description": "<cr>Booming</c>.. Is the <cl>only</c> thing I was good at...",
+        "featureID": "kIcon_047",
+        "price": "0",
+        "title": "Boom Fox",
+        "unlockedBy": "boomlings.ach.bombs.2"
+    },
+    "kIcon_048": {
+        "category": "icons",
+        "description": "There is no <cg>racetrack</c> in the world to difficult for <cl>The Boom Racer</c>. If only he had a <cy>car</c>...",
+        "featureID": "kIcon_048",
+        "price": "0",
+        "title": "Boom Racer",
+        "unlockedBy": "boomlings.ach.level1Speed"
+    },
+    "kIcon_049": {
+        "category": "icons",
+        "description": "Master <cy>tactician</c> and Boom <cg>expert</c>. Can also be sneaky... very <cl>sneaky</c>.",
+        "featureID": "kIcon_049",
+        "price": "0",
+        "title": "Solid Boom",
+        "unlockedBy": "boomlings.ach.chain.7"
+    },
+    "kIcon_050": {
+        "category": "icons",
+        "description": "The <cg>Boom</c> Cat. ,<cr>Fear</c> me, if you <cl>dare</c>!",
+        "featureID": "kIcon_050",
+        "price": "0",
+        "title": "Boom Cat",
+        "unlockedBy": "boomlings.ach.combocat"
+    },
+    "kIcon_051": {
+        "category": "icons",
+        "description": "A <cl>Mentally</c> unstable <cg>Boom veteran</c>. <cy>Skilled</c> with every <cr>weapon</c> known in Boomlia.",
+        "featureID": "kIcon_051",
+        "price": "0",
+        "title": "RamBoom",
+        "unlockedBy": "boomlings.ach.pow.C"
+    },
+    "kIcon_052": {
+        "category": "icons",
+        "description": "Six <cg>different Blobs</c> accidentally tried to <cy>recolor</c> the same Boom. This is the <cl>result</c>.",
+        "featureID": "kIcon_052",
+        "price": "0",
+        "title": "The RainBoom",
+        "unlockedBy": "boomlings.ach.colors.3"
+    },
+    "kIcon_053": {
+        "category": "icons",
+        "description": "I give you <cy>Gold</c>,<cg>Y U NO</c> BUY <cr>POWERUPS</c>?!",
+        "featureID": "kIcon_053",
+        "price": "0",
+        "title": "BoomUNo",
+        "unlockedBy": "boomlings.ach.yuno"
+    },
+    "kIcon_054": {
+        "category": "icons",
+        "description": "<cy>Everyone left</c>.,<cg>Still here</c>.,<cl>Forever Alone</c>.",
+        "featureID": "kIcon_054",
+        "price": "0",
+        "title": "Lonely Boom",
+        "unlockedBy": "boomlings.ach.foreveralone"
+    },
+    "kIcon_055": {
+        "category": "icons",
+        "description": "Use <cl>Bombs</c> to make <cg>chains</c>, you <cy>must</c>!",
+        "featureID": "kIcon_055",
+        "price": "0",
+        "title": "Master Boom",
+        "unlockedBy": "boomlings.ach.firstMegaBomb"
+    },
+    "kIcon_056": {
+        "category": "icons",
+        "description": "Scanning for <cr>Bombs</c>... ,<cy>No Bombs found.</c> ,Scanning for <cl>Noobs</c>... o_o",
+        "featureID": "kIcon_056",
+        "price": "0",
+        "title": "BoomBot",
+        "unlockedBy": "boomlings.ach.megabomb.C"
+    },
+    "kIcon_057": {
+        "category": "icons",
+        "description": "The Kings <cr>evil</c> brother. Secretly <cg>allied</c> with the Colorless to overthrow the king! <cy>Be Prepared</c>!",
+        "featureID": "kIcon_057",
+        "price": "0",
+        "title": "Royal Boom",
+        "unlockedBy": "boomlings.ach.level.20"
+    },
+    "kIcon_058": {
+        "category": "icons",
+        "description": "Roses are <cr>Red</c>,Violets are <cl>Blue</c>,I am the <cg>King</c>,<cy>BOW DOWN TO ME</c>!",
+        "featureID": "kIcon_058",
+        "price": "0",
+        "title": "The BoomKing",
+        "unlockedBy": "boomlings.ach.rank.4"
+    },
+    "kIcon_059": {
+        "category": "icons",
+        "description": "The <cy>Champion Knight</c> of <cl>Boomlia</c>. I put the <cg>Boom</c> in Boomlings!",
+        "featureID": "kIcon_059",
+        "price": "0",
+        "title": "Boom Crasher",
+        "unlockedBy": "boomlings.ach.nodes.C"
+    },
+    "kIcon_060": {
+        "category": "icons",
+        "description": "<cy>Confused</c> by <cg>everyone</c> and <cl>Everything</c>...,Who are you anyway?",
+        "featureID": "kIcon_060",
+        "price": "0",
+        "title": "Clueless Boom",
+        "unlockedBy": "boomlings.ach.mystery.C"
+    },
+    "kIcon_061": {
+        "category": "icons",
+        "description": "They say <cg>Boomlings</c> have good... <cr>taste</c>.",
+        "featureID": "kIcon_061",
+        "price": "1000",
+        "title": "Boomula"
+    },
+    "kIcon_062": {
+        "category": "icons",
+        "description": "Bhomp <cg>slam</c> Boomlings! Stay <cr>away</c>!",
+        "featureID": "kIcon_062",
+        "price": "1000",
+        "title": "Bhomp"
+    },
+    "kIcon_063": {
+        "category": "icons",
+        "description": "A <cl>Boomling</c> created from solid <cy>Gold</c>. The shine is so bright!",
+        "featureID": "kIcon_063",
+        "price": "5000",
+        "title": "Golden Boom"
+    },
+    "kIcon_064": {
+        "category": "icons",
+        "description": "I will make a <cg>special</c> treat for <cy>you</c>!",
+        "featureID": "kIcon_064",
+        "price": "1000",
+        "title": "Boom Chef"
+    },
+    "kIcon_065": {
+        "category": "icons",
+        "description": "<cl>Boomlia</c> needs a <cy>hero</c>, and that hero is <cg>The Boon</c>...",
+        "featureID": "kIcon_065",
+        "price": "1000",
+        "title": "The Boon"
+    },
+    "kIcon_066": {
+        "category": "icons",
+        "description": "This is just a <cg>strange</c> hybrid. Seems to like <cy>carrots</c>.",
+        "featureID": "kIcon_066",
+        "price": "1000",
+        "title": "BunnyBoom"
+    }
+}

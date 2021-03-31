@@ -1,0 +1,11 @@
+{
+  "category": "consumable",
+  "count": "1",
+  "description": "Start the game on Level 10. One time use.",
+  "featureID": "kItemSkipB",
+  "groupID": "kSkip",
+  "iconName": "itemSkipB_001.png",
+  "price": "150",
+  "title": "Secret Tunnel",
+  "type": "consumable"
+}

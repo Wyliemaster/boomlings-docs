@@ -1,0 +1,26 @@
+{
+  "category": "general",
+  "ranks": {
+    "kPowerupSlot_01": {
+      "description": "Powerup slot 1",
+      "featureID": "kPowerupSlot_01",
+      "iconName": "bg_pow_001.png",
+      "price": "750",
+      "title": "Slot 1"
+    },
+    "kPowerupSlot_02": {
+      "description": "Powerup slot 2",
+      "featureID": "kPowerupSlot_02",
+      "iconName": "bg_pow_001.png",
+      "price": "1500",
+      "title": "Slot 2"
+    },
+    "kPowerupSlot_03": {
+      "description": "Powerup slot 3",
+      "featureID": "kPowerupSlot_03",
+      "iconName": "bg_pow_001.png",
+      "price": "3000",
+      "title": "Slot 3"
+    }
+  }
+}

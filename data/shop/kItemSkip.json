@@ -1,0 +1,11 @@
+{
+  "category": "consumable",
+  "count": 1,
+  "description": "Start the game on Level 5. One time use.",
+  "featureID": "kItemSkip",
+  "groupID": "kSkip",
+  "iconName": "itemSkip_001.png",
+  "price": 50,
+  "title": "Hidden Passage",
+  "type": "consumable"
+}

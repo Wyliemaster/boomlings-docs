@@ -1,0 +1,30 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowColorM_01": {
+      "description": "- Increased chance for <cg>Blobs</c>.",
+      "featureID": "kPowColorM_01",
+      "iconName": "color_01.png",
+      "price": "250",
+      "title": "Blob Novice",
+      "usePrice": "50"
+    },
+    "kPowColorM_02": {
+      "description": "- Increased chance for <cg>Blobs</c>. ,- Chance to spawn <cg>Mega Blobs</c>.",
+      "featureID": "kPowColorM_02",
+      "iconName": "color_02.png",
+      "price": "750",
+      "title": "Blob Adept",
+      "usePrice": "50"
+    },
+    "kPowColorM_03": {
+      "description": "- Increased chance for <cg>Blobs</c>. ,- Chance to spawn <cg>Mega Blobs</c>. ,- Blobs remove <cl>Ice</c>.",
+      "featureID": "kPowColorM_03",
+      "iconName": "color_03.png",
+      "price": "1500",
+      "title": "Blob Master",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

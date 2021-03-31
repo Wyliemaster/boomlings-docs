@@ -1,0 +1,16 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowLevelSkip_01": {
+      "charges": "1",
+      "description": "Skip a <cg>level</c> <cg>once</c> per game.",
+      "featureID": "kPowLevelSkip_01",
+      "iconName": "skipLevel_01.png",
+      "price": "1500",
+      "title": "Level Skip",
+      "usable": "1",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

@@ -1,0 +1,30 @@
+{
+    "category": "powerups",
+    "ranks": {
+        "kPowGreed_01": {
+            "description": "Increases gold gain by <cy>5%</c>.",
+            "featureID": "kPowGreed_01",
+            "iconName": "greed_01.png",
+            "price": "250",
+            "title": "Greed",
+            "usePrice": "50"
+        },
+        "kPowGreed_02": {
+            "description": "Increases gold gain by <cy>10%</c>.",
+            "featureID": "kPowGreed_02",
+            "iconName": "greed_02.png",
+            "price": "750",
+            "title": "Greater Greed",
+            "usePrice": "50"
+        },
+        "kPowGreed_03": {
+            "description": "- Increases gold gain by <cy>20%</c>.,- Increased chance for <cy>Mystery Boxes</c>.",
+            "featureID": "kPowGreed_03",
+            "iconName": "greed_03.png",
+            "price": "1500",
+            "title": "Greediest Greed",
+            "usePrice": "50"
+        }
+    },
+    "type": "powerup"
+}

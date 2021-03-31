@@ -1,0 +1,30 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowBombM_01": {
+      "description": "- Increased chance for <cg>Bombs</c>.",
+      "featureID": "kPowBombM_01",
+      "iconName": "bomb_01.png",
+      "price": "250",
+      "title": "Bomb Novice",
+      "usePrice": "50"
+    },
+    "kPowBombM_02": {
+      "description": "- Increased chance for <cg>Bombs</c>. ,- Chance to spawn <cg>Mega Bombs</c>.",
+      "featureID": "kPowBombM_02",
+      "iconName": "bomb_02.png",
+      "price": "750",
+      "title": "Bomb Adept",
+      "usePrice": "50"
+    },
+    "kPowBombM_03": {
+      "description": "- Increased chance for <cg>Bombs</c>. ,- Chance to spawn <cg>Mega Bombs</c>. ,- Bombs destroy <cr>rocks</c> in <cg>1</c> hit.",
+      "featureID": "kPowBombM_03",
+      "iconName": "bomb_03.png",
+      "price": "1500",
+      "title": "Bomb Master",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowTimeBoost_01": {
+      "description": "+1 time to <cr>Skulls</c>.",
+      "featureID": "kPowTimeBoost_01",
+      "iconName": "timeSlow_01.png",
+      "price": "250",
+      "title": "Tiny Time Boost",
+      "usePrice": "50"
+    },
+    "kPowTimeBoost_02": {
+      "description": "+2 time to <cr>Skulls</c>.,+1 time to <cl>Ice Bombs</c>.",
+      "featureID": "kPowTimeBoost_02",
+      "iconName": "timeSlow_02.png",
+      "price": "750",
+      "title": "Large Time Boost",
+      "usePrice": "50"
+    },
+    "kPowTimeBoost_03": {
+      "description": "+3 time to <cr>Skulls</c>.,+2 time to <cl>Ice Bombs</c>.,+1 time to <cg>Mystery Boxes</c>.",
+      "featureID": "kPowTimeBoost_03",
+      "iconName": "timeSlow_03.png",
+      "price": "1500",
+      "title": "Giant Time Boost",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

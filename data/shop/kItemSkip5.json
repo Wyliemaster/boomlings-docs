@@ -1,0 +1,11 @@
+{
+  "category": "consumable",
+  "count": 5,
+  "description": "Package containing <cg>5</c> Hidden Passages.",
+  "featureID": "kItemSkip",
+  "groupID": "kSkip",
+  "iconName": "itemSkip_001.png",
+  "price": 200,
+  "title": "Hidden Passage x5",
+  "type": "consumable"
+}

@@ -1,0 +1,36 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowTimeFreeze_01": {
+      "charges": "1",
+      "description": "Stops time for <cg>3</c> turns <cg>once</c> per game.",
+      "featureID": "kPowTimeFreeze_01",
+      "iconName": "timeFreeze_01.png",
+      "price": "250",
+      "title": "Time Freeze",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowTimeFreeze_02": {
+      "charges": "2",
+      "description": "Stops time for <cg>4</c> turns <cg>twice</c> per game.",
+      "featureID": "kPowTimeFreeze_02",
+      "iconName": "timeFreeze_02.png",
+      "price": "750",
+      "title": "Super Time Freeze",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowTimeFreeze_03": {
+      "charges": "3",
+      "description": "Stops time for <cg>5</c> turns <cg>three</c> times per game.",
+      "featureID": "kPowTimeFreeze_03",
+      "iconName": "timeFreeze_03.png",
+      "price": "1500",
+      "title": "Mega Time Freeze",
+      "usable": "1",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

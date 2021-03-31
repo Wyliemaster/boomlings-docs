@@ -1,0 +1,36 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowBOOM_01": {
+      "charges": "1",
+      "description": "Detonates all bombs <cg>once</c> per game.",
+      "featureID": "kPowBOOM_01",
+      "iconName": "boom_01.png",
+      "price": "250",
+      "title": "Tiny BOOM!",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowBOOM_02": {
+      "charges": "2",
+      "description": "Detonates all bombs <cg>twice</c> per game for <cg>1.5x</c> point value.",
+      "featureID": "kPowBOOM_02",
+      "iconName": "boom_02.png",
+      "price": "750",
+      "title": "Large BOOM!",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowBOOM_03": {
+      "charges": "3",
+      "description": "Detonates all bombs <cg>three</c> times per game for <cg>2x</c> point value.",
+      "featureID": "kPowBOOM_03",
+      "iconName": "boom_03.png",
+      "price": "1500",
+      "title": "Giant BOOM!",
+      "usable": "1",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

@@ -1,0 +1,11 @@
+{
+  "category": "consumable",
+  "count": "5",
+  "description": "Package containing <cg>5</c> Dark Pathways.",
+  "featureID": "kItemSkipC",
+  "groupID": "kSkip",
+  "iconName": "itemSkipC_001.png",
+  "price": "1200",
+  "title": "Dark Pathway x5",
+  "type": "consumable"
+}

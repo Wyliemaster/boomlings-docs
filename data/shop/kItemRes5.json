@@ -1,0 +1,10 @@
+{
+  "category": "consumable",
+  "count": 5,
+  "description": "Package containing <cg>5</c> Ankhs.",
+  "featureID": "kItemRes",
+  "iconName": "itemRes_001.png",
+  "price": 800,
+  "title": "Ankh of Life x5",
+  "type": "consumable"
+}

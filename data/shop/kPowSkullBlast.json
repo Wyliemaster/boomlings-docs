@@ -1,0 +1,36 @@
+{
+  "category": "powerups",
+  "ranks": {
+    "kPowSkullBlast_01": {
+      "charges": "1",
+      "description": "Removes all <cr>Skulls</c> <cg>once</c> per game.",
+      "featureID": "kPowSkullBlast_01",
+      "iconName": "skull_01.png",
+      "price": "250",
+      "title": "Skull Pop",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowSkullBlast_02": {
+      "charges": "2",
+      "description": "Removes all <cr>Skulls</c> and <cl>Ice Bombs</c> <cg>twice</c> per game.",
+      "featureID": "kPowSkullBlast_02",
+      "iconName": "skull_02.png",
+      "price": "750",
+      "title": "Skull Blast",
+      "usable": "1",
+      "usePrice": "50"
+    },
+    "kPowSkullBlast_03": {
+      "charges": "3",
+      "description": "Removes all <cr>Skulls</c>, <cl>Ice Bombs</c> and <cy>Stones</c> <cg>three</c> times per game.",
+      "featureID": "kPowSkullBlast_03",
+      "iconName": "skull_03.png",
+      "price": "1500",
+      "title": "Skull DoomBoom",
+      "usable": "1",
+      "usePrice": "50"
+    }
+  },
+  "type": "powerup"
+}

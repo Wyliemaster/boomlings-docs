@@ -1,0 +1,10 @@
+{
+  "category": "consumable",
+  "count": 1,
+  "description": "Get one more chance to replay the level. One time use.",
+  "featureID": "kItemRes",
+  "iconName": "itemRes_001.png",
+  "price": 200,
+  "title": "Ankh of Life",
+  "type": "consumable"
+}
