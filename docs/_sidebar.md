@@ -41,3 +41,4 @@
   - [Context](/topics/context.md)
   - [Promo](/topics/promo_codes.md)
   - [UDID](/topics/udid)
+  - [Patches](/topics/patches.md)
