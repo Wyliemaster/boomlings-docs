@@ -19,5 +19,5 @@ CCGameSave contains data which is used to keep track of your sessions in boomlin
 | k13 | **Integer** | total frozen Timers |
 | k14 | **Dict** | [Available Powerups](/topics/powerups) |
 | k15 |**Integer** | |
-| k16 |**Integer** | Most Likely `GameVersion` |
+| k16 |**Integer** | `GameVersion * 1000` (1200) |
 
