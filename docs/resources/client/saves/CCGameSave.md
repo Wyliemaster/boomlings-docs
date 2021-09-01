@@ -12,12 +12,12 @@ CCGameSave contains data which is used to keep track of your sessions in boomlin
 | k6 | **Float** | Time Spent playing |
 | k7 | **Integer** | Bonus Gold |
 | k8 | **Bool** | If a respawn is available |
-| k9 | **Dict** | [Game Statistics](/resources/client/saves/CCGameStatistics) for that session |
+| k9 | **Dict** | [Session Statistics](/resources/client/saves/CCGameStatistics) |
 | k10 | **Bool** | Level Completed |
-| k11 | **Bool** | Used an item|
+| k11 | **Bool** | Used a a skip |
 | k12 | **Bool** | If the timers are frozen |
 | k13 | **Integer** | total frozen Timers |
 | k14 | **Dict** | [Available Powerups](/topics/powerups) |
-| k15 |**Integer** | |
-| k16 |**Integer** | `GameVersion * 1000` (1200) |
+| k15 |**Integer** | Hardcoded to `true`. returned by `GameSaveManager::dataExists` method |
+| k16 |**Integer** | `GameVersion * 1000`|
 
